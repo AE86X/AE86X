@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @AE86X
 - 👀 擅长 Go、Python
-- 🌱 目前正在学习一些感兴趣的东西
-- 💞️ 同时也在研究 TRON 相关的 API，期待与你的合作
+- 💞️ 熟悉 TRON 相关的 API，期待与你的合作
 - 📫 你可以通过以下方式联系我 [AE86X](https://t.me/TBKeFuBot)
 
 <!---
